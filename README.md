@@ -2,8 +2,6 @@ Kullanılan yapılar;
 
 -Restful Api
 
--Widgets
-
 -Bloc Provider
 
 -Listview.Builder
